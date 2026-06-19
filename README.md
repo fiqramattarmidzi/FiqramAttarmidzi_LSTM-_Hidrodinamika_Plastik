@@ -1,0 +1,2 @@
+# FiqramAttarmidzi_LSTM-_Hidrodinamika_Plastik
+Tugas 1,LSTM _Hidrodinamika_Plastik
